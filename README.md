@@ -1,0 +1,2 @@
+# obsidian
+保存我在archlinux上用obsidian的知识库
