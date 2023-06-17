@@ -1,2 +1,2 @@
 # obsidian
-保存我在archlinux上用obsidian的知识库
+archlinux上用obsidian编制的的知识库
